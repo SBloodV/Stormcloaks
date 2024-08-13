@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Stormcloak Uprising",
+		"name": "The Stormcloaks",
 		"leaderName": "Ulfric Stormcloak",
 		"adjective": ["Stormcloak"],
 		"startBias": ["Snow","Tundra"],
@@ -30,6 +30,6 @@
 		"outerColor": [40,60,128],
 		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Windhelm"]
+		"cities": ["Windhelm","Kynesgrove","Darkwater Village","Helgen","Riverwood","Iverstead","Dragon's Bridge","Rorikstead","Red Iron Village"]
 	}
 ]
