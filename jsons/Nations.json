@@ -14,15 +14,15 @@
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Well?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralNo": ["We cannot accept.","Never!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateNo": ["A crown doesn't make a king!","As if","Who do you think we are?"],
+		"hateYes": ["So be it","That is good enough.","Very well..."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
