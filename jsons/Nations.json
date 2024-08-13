@@ -9,10 +9,10 @@
 		"startIntroPart1": "We're fighting because we're done bleeding for an Empire that won't bleed for us. We're fighting because our own Jarls, once strong, wise men, have become fearful and blind ,We're fighting because Skyrim needs heroes, and there's no one else but us.!",
 		"startIntroPart2": "A new day is dawning and the sun rises over Skyrim",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "We fight for the freedom of our lands",
+		"attacked": "We will avenge the blood of our brothers and sisters!",
+		"defeated": "It appears Skyrim must stand alone. Again.",
+		"introduction": "The sons and daughters of Skyrim greet you",
 		
 		"neutralHello": "Well?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -24,7 +24,7 @@
 		"hateNo": ["A crown doesn't make a king!","As if","Who do you think we are?"],
 		"hateYes": ["So be it","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "The sons of Skyrim will live up to their agreements. As long as you hold to your's.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [40,60,128],
