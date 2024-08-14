@@ -30,7 +30,8 @@
 
 		"outerColor": [40,60,128],
 		"innerColor": [255,255,255],
-		"unique": "SONS_OF_SKYRIM",
+		"uniqueName":"Children Of Skyrim",
+		"uniques": "",
 		"cities": ["Windhelm","Winterhold","Dawnstar","Kynesgrove","Karthwesten","Helgen","Riverwood","Iverstead","Dragon's Bridge","Rorikstead","Morthal","Riften"]
 	}
 ]
