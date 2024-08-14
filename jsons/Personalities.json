@@ -1,1 +1,32 @@
 
+[
+  {
+    "name": "Ulfric Stormcloak",
+    "production": 9,
+    "food": 7,
+    "gold": 6,
+    "science": 5,
+    "culture": 7,
+    "happiness": 8,
+    "faith": 5,
+    "military": 8,
+    "aggressive": 8,
+    "declareWar": 3,
+    "commerce": 5,
+    "diplomacy": 6,
+    "loyal": 7,
+    "expansion": 5,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 5,
+      "Honor": 8,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 4,
+      "Rationalism": 5,
+      "Freedom": 5,
+      "Autocracy": 4,
+      "Order": 7
+    }
+  }
+]
