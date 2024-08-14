@@ -31,7 +31,7 @@
 		"outerColor": [40,60,128],
 		"innerColor": [255,255,255],
 		"uniqueName":"Children Of Skyrim",
-		"uniques": ["[+30]% Strength <for [Your] units> <when fighting in [Friendly Land] tiles>","[+20]% Strength <for [Your] units> <when fighting units from a Civilization with more Cities than you>"],
+		"uniques": ["[+30]% Strength <for [The Stormcloaks] units> <when fighting in [Friendly Land] tiles>","[+20]% Strength <for [The Stormcloaks] units> <when fighting units from a Civilization with more Cities than you>"],
 		"cities": ["Windhelm","Winterhold","Dawnstar","Kynesgrove","Karthwesten","Helgen","Riverwood","Iverstead","Dragon's Bridge","Rorikstead","Morthal","Riften"]
 	}
 ]
