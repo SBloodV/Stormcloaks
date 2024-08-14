@@ -4,7 +4,8 @@
 		"leaderName": "Ulfric Stormcloak",
 		"adjective": ["Stormcloak"],
 		"startBias": ["Snow","Tundra"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Domination",
+		"personality" "Ulfric Stormcloak",
 		
 		"startIntroPart1": "We're fighting because we're done bleeding for an Empire that won't bleed for us. We're fighting because our own Jarls, once strong, wise men, have become fearful and blind ,We're fighting because Skyrim needs heroes, and there's no one else but us.!",
 		"startIntroPart2": "A new day is dawning and the sun rises over Skyrim",
@@ -29,7 +30,7 @@
 
 		"outerColor": [40,60,128],
 		"innerColor": [255,255,255],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["Windhelm","Kynesgrove","Darkwater Village","Helgen","Riverwood","Iverstead","Dragon's Bridge","Rorikstead","Red Iron Village"]
+		"unique": "SONS_OF_SKYRIM",
+		"cities": ["Windhelm","Winterhold","Dawnstar","Kynesgrove","Karthwesten","Helgen","Riverwood","Iverstead","Dragon's Bridge","Rorikstead","Morthal","Riften"]
 	}
 ]
