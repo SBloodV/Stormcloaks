@@ -5,9 +5,10 @@
 		"uniqueTo": "The Stormcloaks",
 		"movement": 2,
 		"strength": 20,
-		"range": 1,
 		"cost": 100,
-		"requiredTech": "Trapping",
+		"requiredTech": "Bronze Working", 
+		"upgradesTo": "Musketman",
+		"uniques": ["[+35]% Strength <when defending>", "[+75]% Strength <vs cities> <when attacking>"],
 		"attackSound": "metalhit"
 	}
 ]
