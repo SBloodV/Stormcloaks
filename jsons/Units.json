@@ -1,14 +1,24 @@
-[
-	{
-		"name": "Bear Battalion",
-		"unitType": "Sword",
-		"uniqueTo": "The Stormcloaks",
-		"movement": 2,
-		"strength": 20,
-		"cost": 100,
-		"requiredTech": "Bronze Working", 
-		"upgradesTo": "Musketman",
-		"uniques": ["[+35]% Strength <when defending>", "[+75]% Strength <vs cities> <when attacking>"],
-		"attackSound": "metalhit"
-	}
-]
+{
+	"name": "Bear Battalion",
+        "unitType": "Sword",
+        "uniqueTo": "The Stormcloaks",
+        "movement": 2,
+        "strength": 15,
+        "cost": 100,
+        "requiredTech": "Iron Working", 
+        "upgradesTo": "Musketman",
+        "uniques": ["[+35]% Strength <when defending>", "[+75]% Strength <vs cities> <when attacking>"],
+        "attackSound": "metalhit"},
+},
+{
+	"name": "Wolf Warrior",
+        "unitType": "Scout",
+        "uniqueTo": "The Stormcloaks",
+        "movement": 2,
+        "strength": 10,
+        "cost": 100,
+        "requiredTech": "Trapping", 
+        "uniques": ["[+70]% Strength <vs units> <when attacking>", "[-100]% Strength <vs cities> <when attacking>", ""],
+        "attackSound": "metalhit"},
+},
+	
