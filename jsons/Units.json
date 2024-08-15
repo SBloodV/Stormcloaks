@@ -1,17 +1,13 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "Bear Battalion",
+		"unitType": "Sword",
+		"uniqueTo": "The Stormcloaks",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"strength": 20,
+		"range": 1,
+		"cost": 100,
+		"requiredTech": "Trapping",
+		"attackSound": "metalhit"
 	}
 ]
