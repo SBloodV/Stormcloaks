@@ -12,6 +12,7 @@
 		"uniques": ["[+35]% Strength <when defending>", "[+75]% Strength <vs cities> <when attacking>"],
 		"attackSound": "metalhit",
 	},
+	{
 		"name": "Wolf Warrior",
 		"unitType": "Scout",
 		"uniqueTo": "The Stormcloaks",
