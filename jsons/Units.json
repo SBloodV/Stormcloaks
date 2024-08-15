@@ -8,7 +8,7 @@
         "requiredTech": "Iron Working", 
         "upgradesTo": "Musketman",
         "uniques": ["[+35]% Strength <when defending>", "[+75]% Strength <vs cities> <when attacking>"],
-        "attackSound": "metalhit"},
+        "attackSound": "metalhit",
 },
 {
 	"name": "Wolf Warrior",
@@ -19,6 +19,6 @@
         "cost": 100,
         "requiredTech": "Trapping", 
         "uniques": ["[+70]% Strength <vs units> <when attacking>", "[+30]% Strength <vs Wounded>", "[-100]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[+1] Sight", "Eliminates combat penalty for attacking over a river", "Can move after attacking"],
-        "attackSound": "metalhit"},
+        "attackSound": "metalhit",
 },
 	
