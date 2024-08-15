@@ -10,7 +10,7 @@
 		"requiredTech": "Iron Working", 
 		"replaces": "Longswordsman",
 		"upgradesTo": "Musketman",
-		"uniques": ["[+35]% Strength <when defending>", "[+75]% Strength <vs cities> <when attacking>", "[+40]% Strength when [Wounded]"],
+		"uniques": ["[+35]% Strength <when defending>", "[+75]% Strength <vs cities> <when attacking>", "[+40]% Strength <when [Wounded]>"],
 		"attackSound": "metalhit",
 	},
 	{
