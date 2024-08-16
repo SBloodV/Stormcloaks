@@ -34,7 +34,7 @@
 		"movement": 1,
 		"strength": 20,
 		"cost": 175,
-		"requiredTech": "Trapping", 
+		"requiredTech": "Pottery",
 		"replaces": "Warrior",
 		"uniques": ["[+150]% Strength <vs [Land] units> <when attacking>", "[350]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[+1] Sight", "Blast radius [1]",]
 		"attackSound": "nonmetalhit",
