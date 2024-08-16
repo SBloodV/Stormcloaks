@@ -3,6 +3,7 @@
 		"name": "Palace Of Kings",
 		"replaces": "Palace",
 		"uniqueTo": "The Stormcloaks",
+		"happiness": 2,
 		"production": 4,
 		"culture": 3,
 		"science": 3,
