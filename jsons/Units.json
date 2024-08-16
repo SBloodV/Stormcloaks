@@ -35,7 +35,7 @@
 		"strength": 10,
 		"cost": 175,
 		"replaces": "Warrior",
-		"uniques": ["[+150]% Strength <vs [Land] units> <when attacking>", "[350]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[+1] Sight", "Blast radius [1]", "[+5] Strength <after discovering [Bronze Working]>", "[+10] Strength <after discovering [Metal Casting]>",]
+		"uniques": ["[+75]% Strength <vs [Land] units>", "[350]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[+1] Sight", "Blast radius [1]", "[+5] Strength <after discovering [Bronze Working]>", "[+10] Strength <after discovering [Metal Casting]>",]
 		"attackSound": "nonmetalhit",
 	},
 ]
