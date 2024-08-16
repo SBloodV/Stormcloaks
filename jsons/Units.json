@@ -23,9 +23,21 @@
 		"requiredTech": "Trapping", 
 		"replaces": "Swordsman",
 		"upgradesTo": "Rifleman",
-		"uniques": ["[+150]% Strength <vs [Land] units> <when attacking>", "[+200]% Strength <vs [Wounded] units>", "[-100]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[+1] Sight", "Eliminates combat penalty for attacking over a river", "Can move after attacking", "Withdraws before melee combat <with [80]% chance>", "Invisible to non-adjacent units",
+		"uniques": ["[+150]% Strength <vs [Land] units> <when attacking>", "[+200]% Strength <vs [Wounded] units>", "[-100]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[+1] Sight", "Eliminates combat penalty for attacking over a river", "Can move after attacking", "Withdraws before melee combat <with [80]% chance>", "Invisible to non-adjacent units",]
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "metalhit",
+	},
+	{
+		"name": "Giant",
+		"unitType": "Armored",
+		"uniqueTo": "The Stormcloaks",
+		"movement": 1,
+		"strength": 20,
+		"cost": 175,
+		"requiredTech": "Trapping", 
+		"replaces": "Warrior",
+		"uniques": ["[+150]% Strength <vs [Land] units> <when attacking>", "[350]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[+1] Sight", "Blast radius [1]",]
+		"attackSound": "nonmetalhit",
 	},
 ]
 
