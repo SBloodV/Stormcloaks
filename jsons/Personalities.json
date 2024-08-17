@@ -26,7 +26,37 @@
       "Rationalism": 5,
       "Freedom": 5,
       "Autocracy": 4,
-      "Order": 7
+      "Order": 7,
     }
-  }
+  },
+  
+  {
+    "name": "Titus Mede II",
+    "production": 6,
+    "food": 5,
+    "gold": 8,
+    "science": 5,
+    "culture": 6,
+    "happiness": 8,
+    "faith": 5,
+    "military": 8,
+    "aggressive": 5,
+    "declareWar": 3,
+    "commerce": 5,
+    "diplomacy": 7,
+    "loyal": 5,
+    "expansion": 8,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 5,
+      "Honor": 6,
+      "Commerce": 7,
+      "Patronage": 7,
+      "Piety": 4,
+      "Rationalism": 5,
+      "Freedom": 5,
+      "Autocracy": 7,
+      "Order": 5,
+    }
+  },
 ]
