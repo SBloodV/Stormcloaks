@@ -31,7 +31,8 @@
 		"outerColor": [40,60,128],
 		"innerColor": [255,255,255],
 		"uniqueName":"Children Of Skyrim",
-		"uniques": ["[+30]% Strength <when fighting in [Friendly Land] tiles>","[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"uniques": ["[+30]% Strength <when fighting in [Friendly Land] tiles>",
+			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
 		"cities": ["Windhelm","Winterhold","Dawnstar","Kynesgrove","Karthwesten","Helgen","Riverwood","Iverstead","Dragon's Bridge","Rorikstead","Morthal","Riften"]
 	},
 	{
@@ -66,7 +67,8 @@
 		"outerColor": [105, 10, 3],
 		"innerColor": [0,0,0],
 		"uniqueName":"Seat of The Ruby Throne",
-		"uniques": ["[+30]% Strength <when fighting in [Friendly Land] tiles>","[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"uniques": ["[-15]% City-State Influence degradation",
+			"Each city founded increases culture cost of policies [10]% less than normal",],
 		"cities": ["The Imperial City","Bravil","Skingrad","Kvatch","Chorrol","Bruma","Cheydinhal","Leyawiin"]
 	}
 ]
