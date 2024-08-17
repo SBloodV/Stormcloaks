@@ -63,8 +63,8 @@
 		"afterPeace": "The sons of Skyrim will live up to their agreements. As long as you hold to your's.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [40,60,128],
-		"innerColor": [255,255,255],
+		"outerColor": [105, 10, 3],
+		"innerColor": [0,0,0],
 		"uniqueName":"Children Of Skyrim",
 		"uniques": ["[+30]% Strength <when fighting in [Friendly Land] tiles>","[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
 		"cities": ["Windhelm","Winterhold","Dawnstar","Kynesgrove","Karthwesten","Helgen","Riverwood","Iverstead","Dragon's Bridge","Rorikstead","Morthal","Riften"]
