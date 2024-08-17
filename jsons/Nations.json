@@ -38,12 +38,12 @@
 		"name": "The Empire",
 		"leaderName": "Titus Mede II",
 		"adjective": ["Imperial"],
-		"startBias": ["Plains",],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Titus Mede II",
 		
-		"startIntroPart1": "We're fighting because we're done bleeding for an Empire that won't bleed for us. We're fighting because our own Jarls, once strong, wise men, have become fearful and blind ,We're fighting because Skyrim needs heroes, and there's no one else but us.!",
-		"startIntroPart2": "A new day is dawning and the sun rises over Skyrim",
+		"startIntroPart1": "Emperor Titus Mede II ascendent to the throne. The Empire id at thid time a shadow of its former glory. Valenwood and Elsweyr have been ceded to the third Aldmeri Dominion, and Black Marsh has been lost to Imperial rule since the Oblivion Crisis.Morrowind had yet to fully recover from the eruption of Red Mountain. you must reunite The Empire",
+		"startIntroPart2": "Long live The Empire ",
 		
 		"declaringWar": "We fight for the freedom of our lands",
 		"attacked": "We will avenge the blood of our brothers and sisters!",
@@ -65,8 +65,8 @@
 
 		"outerColor": [105, 10, 3],
 		"innerColor": [0,0,0],
-		"uniqueName":"Children Of Skyrim",
+		"uniqueName":"Seat of The Ruby Throne",
 		"uniques": ["[+30]% Strength <when fighting in [Friendly Land] tiles>","[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
-		"cities": ["Windhelm","Winterhold","Dawnstar","Kynesgrove","Karthwesten","Helgen","Riverwood","Iverstead","Dragon's Bridge","Rorikstead","Morthal","Riften"]
+		"cities": ["The Imperial City","Bravil","Skingrad","Kvatch","Chorrol","Bruma","Cheydinhal","Leyawiin"]
 	}
 ]
