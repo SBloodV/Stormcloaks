@@ -59,11 +59,27 @@
 		"strength": 18,
 		"cost": 120,
 		"requiredTech": "Iron Working", 
-		"replaces": "Swordsman",
 		"upgradesTo": "Musketman",
 		"uniques": ["Can build [Imperial Fort] improvements on tiles", 
 			"[-75]% maintenance costs <in [Friendly] tiles>", 
 			"[+100]% Strength decreasing with distance from the capital"],
+		"attackSound": "metalhit",
+	},
+	{
+	
+		"name": "Penitus Oculatus",
+		"unitType": "Sword",
+		"uniqueTo": "The Empire",   
+		"movement": 2,
+		"strength": 16,
+		"cost": 130,
+		"replaces": "Scout",
+		"requiredTech": "Iron Working",
+		"replaces": "Swordsman",
+		"upgradesTo": "Musketman",
+		"uniques": ["Invisible to non-adjacent units", "[+1] Sight", 
+			"[+10]% Strength bonus for [Military] units within [1] tiles ",
+			"May enter foreign tiles without open borders"]
 		"attackSound": "metalhit",
 	},
 ]
