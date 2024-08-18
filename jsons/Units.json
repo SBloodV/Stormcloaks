@@ -80,7 +80,7 @@
 		"replaces": "Swordsman",
 		"upgradesTo": "Musketman",
 		"uniques": ["Invisible to non-adjacent units", "[+1] Sight", 
-			"[+10]% Strength bonus for [Military] units within [1] tiles ",
+			"[+10]% Strength bonus for [Military] units within [1] tiles",
 			"May enter foreign tiles without open borders"]
 		"attackSound": "metalhit",
 	},
