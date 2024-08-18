@@ -6,6 +6,7 @@
 		"production": 1,
 		"gold": 1,
 		"culture": 1,
+		"maintenance": 1,
 		"cost": 70,
 		"requiredTech": "Civil Service",
 		"uniques": ["[+10]% production [in capital]"]
@@ -15,7 +16,7 @@
 		"uniqueTo": "The Empire",
 		"production": 1,
 		"gold": 3,
-		"maintenance" 2,
+		"maintenance": 2,
 		"cost": 100,
 		"requiredTech": "Currency",
 		"uniques": ["Can only be built <in [Coastal] cities>", "[+25]% [Gold] from every [East Empire Company Warehouse]", ]
