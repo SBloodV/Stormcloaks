@@ -9,7 +9,7 @@
 		"maintenance": 1,
 		"cost": 70,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+10]% production [in capital]"]
+		"uniques": ["[+5]% [Production] <in cities connected to the capital>"]
 	},
 	{
 		"name": "East Empire Company Warehouse",
