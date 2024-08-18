@@ -76,7 +76,7 @@
 		"strength": 13,
 		"cost": 130,
 		"replaces": "Scout",
-		"requiredTech": "Iron Working",
+		"requiredTech": "Civil Service",
 		"replaces": "Swordsman",
 		"upgradesTo": "Musketman",
 		"uniques": ["Invisible to non-adjacent units", "[+1] Sight", 
