@@ -72,6 +72,18 @@
 			"Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns.",
 		        "[-10]% Culture cost of natural border growth [in all cities]"],
 		"cities": ["The Imperial City","Bravil","Skingrad","Kvatch","Chorrol","Bruma","Cheydinhal","Leyawiin"]
-	}
+	},
 	//City States
+	{
+		"name": "Dark Brotherhood",
+		"adjective": ["Dark Brotherhood"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "The sins of the unworthy must be baptized in blood and fear",
+		"attacked": "...",
+		"defeated": "Hail Siths!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [92, 10, 52],
+		"cities": ["Dark Inn"]
+	},
 ]
