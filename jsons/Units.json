@@ -63,7 +63,7 @@
 		"upgradesTo": "Musketman",
 		"uniques": ["Can build [Fort] improvements on tiles", 
 			"[-75]% maintenance costs <in [Friendly] tiles>", 
-			"[+300]% Strength decreasing with distance from the capital"],
+			"[+100]% Strength decreasing with distance from the capital"],
 		"attackSound": "metalhit",
 	},
 ]
