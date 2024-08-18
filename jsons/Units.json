@@ -86,12 +86,12 @@
 		"attackSound": "metalhit",
 	},
 	{
-		"name": "Assassin",
-		"unitType": "Sword",
+		"name": "Dark Brotherhood Assassin",
+		"unitType": "Scout",
 		"movement": 3,
 		"strength": 11,
 		"uniqueTo": "Dark Brotherhood",
-		"uniques": ["[+500]% Strength <vs [All] units> <when attacking>", "can be purchased with [Gold]",
+		"uniques": ["[+500]% Strength <vs [All] units> <when attacking>",
 			"Eliminates combat penalty for attacking over a river", "Unbuildable",
 			"Can move after attacking", "Withdraws before melee combat <with [80]% chance>", 
 			"Invisible to others",]
