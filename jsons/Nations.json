@@ -64,7 +64,7 @@
 		"afterPeace": "The sons of Skyrim will live up to their agreements. As long as you hold to your's.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [142, 71, 66],
+		"outerColor": [102, 12, 26],
 		"innerColor": [0,0,0],
 		"uniqueName":"Seat of The Ruby Throne",
 		"uniques": ["[-15]% City-State Influence degradation",
