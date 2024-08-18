@@ -61,9 +61,9 @@
 		"requiredTech": "Iron Working", 
 		"replaces": "Longswordsman",
 		"upgradesTo": "Musketman",
-		"uniques": ["Can build [Imperial Fort] improvements on tiles", 
-			"[+75]% Strength <vs cities> <when attacking>", 
-			"[+40]% Strength <when [Wounded]>"],
+		"uniques": ["Can instantly construct a [Fort] improvement", 
+			"[-75]% maintenance costs <in [Friendly] tiles>", 
+			"[+35]% Strength <within [2] tiles of a [Fort]>"],
 		"attackSound": "metalhit",
 	},
 ]
