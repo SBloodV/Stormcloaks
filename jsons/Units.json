@@ -93,7 +93,7 @@
 		"uniques": ["[+500]% Strength <vs [All] units> <when attacking>",
 			"Eliminates combat penalty for attacking over a river", "Unbuildable",
 			"Can move after attacking", "Withdraws before melee combat <with [80]% chance>", 
-			"Invisible to others",]
+			"Invisible to others", "can be purchased with [Gold] [your cities]",]
 		"attackSound": "metalhit",
 	},
 ]
