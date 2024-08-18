@@ -1,17 +1,13 @@
 [
 	{
-		"name": "Palace Of Kings",
-		"replaces": "Palace",
+		"name": "Jarl's Longhouse",
 		"uniqueTo": "The Stormcloaks",
-		"happiness": 2,
-		"production": 4,
-		"culture": 3,
-		"science": 3,
+		"happiness": 1,
+		"production": 2,
 		"gold": 2,
-		"cityStrength": 3,
-		"cost": 1,
-		"isNationalWonder": true,
-		"uniques": ["Indicates the capital city", "[+2 Gold] [in all cities]", "[+2 Production] [in all cities]", "[+1 Happiness] [in capital]"]
+		"cost": 70,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+10]% production [in capital]"]
 	},
 	{
 		"name": "East Empire Company Warehouse",
@@ -20,6 +16,7 @@
 		"gold": 3,
 		"maintenance" 2,
 		"cost": 100,
-		"uniques": ["Can only be built <in [Coastal] cities>", "[+50]% [Gold] from every [East Empire Company Warehouse]", ]
+		"requiredTech": "Currency",
+		"uniques": ["Can only be built <in [Coastal] cities>", "[+25]% [Gold] from every [East Empire Company Warehouse]", ]
 	},
 ]
