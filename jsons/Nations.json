@@ -83,7 +83,7 @@
 		"attacked": "...",
 		"defeated": "Hail Siths!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [150, 10, 72],
+		"innerColor": [166, 49, 99],
 		"cities": ["Dark Inn"]
 	},
 ]
