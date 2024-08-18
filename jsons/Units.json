@@ -89,12 +89,11 @@
 		"unitType": "Sword",
 		"movement": 3,
 		"strength": 11,
-		"cost": 155,
+		"cost": 500,
 		"uniques": ["[+500]% Strength <vs units> <when attacking>", 
-			"Eliminates combat penalty for attacking over a river",
+			"Eliminates combat penalty for attacking over a river", "Unbuildable",
 			"Can move after attacking", "Withdraws before melee combat <with [80]% chance>", 
-			"Invisible to units",]
-		"promotions": ["Ignore terrain cost"],
+			"Invisible to others", "Only available <in cities with a [Dark Brotherhood Sanctuary]>",]
 		"attackSound": "metalhit",
 	},
 ]
