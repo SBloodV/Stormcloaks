@@ -50,6 +50,22 @@
 			"[+150]% Strength <after discovering [Metal Casting]>",]
 		"attackSound": "nonmetalhit",
 	},
+	{
+	
+		"name": "Legion",
+		"unitType": "Sword",
+		"uniqueTo": "The Empire",   
+		"movement": 2,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Iron Working", 
+		"replaces": "Longswordsman",
+		"upgradesTo": "Musketman",
+		"uniques": ["Can build [Imperial Fort] improvements on tiles", 
+			"[+75]% Strength <vs cities> <when attacking>", 
+			"[+40]% Strength <when [Wounded]>"],
+		"attackSound": "metalhit",
+	},
 ]
 
 	
