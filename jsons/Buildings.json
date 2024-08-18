@@ -4,7 +4,8 @@
 		"uniqueTo": "The Stormcloaks",
 		"happiness": 1,
 		"production": 1,
-		"gold": 2,
+		"gold": 1,
+		"culture": 1,
 		"cost": 70,
 		"requiredTech": "Civil Service",
 		"uniques": ["[+10]% production [in capital]"]
