@@ -61,9 +61,9 @@
 		"requiredTech": "Iron Working", 
 		"replaces": "Swordsman",
 		"upgradesTo": "Musketman",
-		"uniques": ["Can instantly construct a [Fort] improvement", 
+		"uniques": ["Can build [Fort] improvements on tiles", 
 			"[-75]% maintenance costs <in [Friendly] tiles>", 
-			"[+35]% Strength <vs [Rebel] units>"],
+			"[+300]% Strength decreasing with distance from the capital"],
 		"attackSound": "metalhit",
 	},
 ]
