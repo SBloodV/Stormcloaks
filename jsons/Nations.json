@@ -1,4 +1,5 @@
 [
+	//Nations
 	{
 		"name": "The Stormcloaks",
 		"leaderName": "Ulfric Stormcloak",
@@ -72,4 +73,5 @@
 		        "[-10]% Culture cost of natural border growth [in all cities]"],
 		"cities": ["The Imperial City","Bravil","Skingrad","Kvatch","Chorrol","Bruma","Cheydinhal","Leyawiin"]
 	}
+	//City States
 ]
