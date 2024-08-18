@@ -10,7 +10,9 @@
 		"requiredTech": "Iron Working", 
 		"replaces": "Longswordsman",
 		"upgradesTo": "Musketman",
-		"uniques": ["[+50]% Strength <when defending>", "[+75]% Strength <vs cities> <when attacking>", "[+40]% Strength <when [Wounded]>"],
+		"uniques": ["[+50]% Strength <when defending>", 
+			"[+75]% Strength <vs cities> <when attacking>", 
+			"[+40]% Strength <when [Wounded]>"],
 		"attackSound": "metalhit",
 	},
 	{
@@ -23,7 +25,13 @@
 		"requiredTech": "Trapping", 
 		"replaces": "Swordsman",
 		"upgradesTo": "Rifleman",
-		"uniques": ["[+150]% Strength <vs [Land] units> <when attacking>", "[+200]% Strength <vs [Wounded] units>", "[-100]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[+1] Sight", "Eliminates combat penalty for attacking over a river", "Can move after attacking", "Withdraws before melee combat <with [80]% chance>", "Invisible to non-adjacent units",]
+		"uniques": ["[+150]% Strength <vs [Land] units> <when attacking>", 
+			"[+200]% Strength <vs [Wounded] units>", 
+			"[-100]% Strength <vs cities> <when attacking>", 
+			"No defensive terrain bonus", "[+1] Sight", 
+			"Eliminates combat penalty for attacking over a river",
+			"Can move after attacking", "Withdraws before melee combat <with [80]% chance>", 
+			"Invisible to non-adjacent units",]
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "metalhit",
 	},
@@ -35,7 +43,11 @@
 		"strength": 10,
 		"cost": 175,
 		"replaces": "Warrior",
-		"uniques": ["[+75]% Strength <vs [Land] units>", "[350]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[+1] Sight", "[+75]% Strength <after discovering [Bronze Working]>", "[+150]% Strength <after discovering [Metal Casting]>",]
+		"uniques": ["[+75]% Strength <vs [Land] units>", 
+			"[350]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus", "[+1] Sight", 
+			"[+75]% Strength <after discovering [Bronze Working]>",
+			"[+150]% Strength <after discovering [Metal Casting]>",]
 		"attackSound": "nonmetalhit",
 	},
 ]
