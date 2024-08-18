@@ -3,7 +3,7 @@
 		"name": "Jarl's Longhouse",
 		"uniqueTo": "The Stormcloaks",
 		"happiness": 1,
-		"production": 2,
+		"production": 1,
 		"gold": 2,
 		"cost": 70,
 		"requiredTech": "Civil Service",
