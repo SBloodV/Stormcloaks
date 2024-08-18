@@ -68,7 +68,7 @@
 		"innerColor": [0,0,0],
 		"uniqueName":"Seat of The Ruby Throne",
 		"uniques": ["[-15]% City-State Influence degradation",
-			"Each city founded increases culture cost of policies [10]% less than normal",
+			"Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns.",
 		        "[-10]% Culture cost of natural border growth [in all cities]"],
 		"cities": ["The Imperial City","Bravil","Skingrad","Kvatch","Chorrol","Bruma","Cheydinhal","Leyawiin"]
 	}
