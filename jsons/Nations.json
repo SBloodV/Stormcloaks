@@ -85,5 +85,6 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [92, 10, 52],
 		"cities": ["Dark Inn"]
+		"uniques": ["Provides a [Dark Brotherhood Sanctuary] in your first [1] cities for free"]
 	},
 ]
