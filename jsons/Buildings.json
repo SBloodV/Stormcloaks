@@ -21,4 +21,8 @@
 		"requiredTech": "Currency",
 		"uniques": ["Can only be built <in [Coastal] cities>", "[+25]% [Gold] from every [East Empire Company Warehouse]", ]
 	},
+	{
+		"name": "Dark Brotherhood Sanctuary ",
+		"happiness": -2,
+	},
 ]
