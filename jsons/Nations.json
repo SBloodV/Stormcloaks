@@ -77,7 +77,7 @@
 	{
 		"name": "Dark Brotherhood",
 		"adjective": ["Dark Brotherhood"],
-		"cityStateType": "Militaristic",
+		"cityStateType": "Assassin",
 
 		"declaringWar": "The sins of the unworthy must be baptized in blood and fear",
 		"attacked": "...",
@@ -85,6 +85,6 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [92, 10, 52],
 		"cities": ["Dark Inn"]
-		"uniques": ["Provides a [Dark Brotherhood Sanctuary] in your first [1] cities for free"]
+		"uniques": 
 	},
 ]
