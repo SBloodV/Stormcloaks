@@ -11,6 +11,6 @@
 		"cityStrength": 3,
 		"cost": 1,
 		"isNationalWonder": true,
-		"uniques": ["Indicates the capital city", "[+2 Gold] [in all cities]", "[+2 Production] [in all cities]", "[+1 Happiness] [in all cities]"]
+		"uniques": ["Indicates the capital city", "[+2 Gold] [in all cities]", "[+2 Production] [in all cities]", "[+1 Happiness] [in capital]"]
 	},
 ]
