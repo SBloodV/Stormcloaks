@@ -64,7 +64,8 @@
 		"upgradesTo": "Musketman",
 		"uniques": ["Can build [Imperial Fort] improvements on tiles", 
 			"[-75]% maintenance costs <in [Friendly] tiles>", 
-			"[+100]% Strength decreasing with distance from the capital"],
+			"[+100]% Strength decreasing with distance from the capital",
+			"Can be purchased with [Gold] [in puppeted cities]"],
 		"attackSound": "metalhit",
 	},
 	{
@@ -89,8 +90,7 @@
 		"unitType": "Sword",
 		"movement": 3,
 		"strength": 11,
-		"cost": 500,
-		"uniques": ["[+500]% Strength <vs units> <when attacking>", 
+		"uniques": ["[+500]% Strength <vs units> <when attacking>", "can be purchased with [Gold]",
 			"Eliminates combat penalty for attacking over a river", "Unbuildable",
 			"Can move after attacking", "Withdraws before melee combat <with [80]% chance>", 
 			"Invisible to others", "Only available <in cities with a [Dark Brotherhood Sanctuary]>",]
